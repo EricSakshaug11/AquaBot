@@ -28,6 +28,13 @@ bot.on('message', msg =>{
         case 'volume':
             //Calculate volume of a tank based on dimensions
         case 'vol':
+            //Calculate volume of a tank based on dimensions
+        case 'ammocalc':
+            //Calculate ammonia required for cycling
+        case 'thickcalc':
+            //Calculate thickness of required glass/acrylic for custom tank
+        case 'info':
+            //Dislpay information about certain species, chemical, or product.
         }
     }
 });
