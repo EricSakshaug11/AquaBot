@@ -1,0 +1,4 @@
+#Ignore emacs autosave files
+*~
+#Ignore the discord client token
+auth.json
